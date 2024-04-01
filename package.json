@@ -35,5 +35,9 @@
       "import": "./dist/base-ui.js",
       "require": "./dist/base-ui.umd.cjs"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonidparshentsev/base-ui.git"
   }
 }
